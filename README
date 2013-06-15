@@ -1,0 +1,8 @@
+This is Snakes using python.
+You need to install VPython lib first,and the game is running on python 2.x.
+
+
+You can to play the game like snooker with a argument '--snooker', and in
+this mode,you need to eat a red ball, then a color ball just like the snooker.
+
+Use direction keys to play,and space to pause.
